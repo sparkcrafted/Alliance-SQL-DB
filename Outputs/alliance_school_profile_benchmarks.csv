@@ -1,0 +1,15 @@
+expansion_category,metric,count,min,p25_minimum_viable,median_typical_alliance,mean,p75_strong_alliance,p90_elite_benchmark,max
+Resource Fit,fb_head_coach_salary,14,221410.0,235000.0,250000.0,254518.71,257762.5,288975.6,350000.0
+Resource Fit,asst_fb_coaches_salary_pool,14,242464.0,256782.75,284415.0,290417.0,308467.25,342834.5,380000.0
+Resource Fit,fb_expenses_non_salaries,14,317852.0,406178.0,556055.0,609454.07,805369.5,889493.7,936000.0
+Resource Fit,total_fb_expenses,14,1450266.0,1680684.75,1878524.0,1968228.14,2307028.0,2377202.4,2443500.0
+Competitive Fit,national_titles,14,0.0,0.25,1.5,3.57,6.5,10.1,11.0
+Competitive Fit,conference_titles,14,0.0,3.0,4.5,5.36,8.75,9.7,12.0
+Competitive Fit,coach_wins,14,7.0,36.5,56.0,79.57,115.0,146.7,228.0
+Competitive Fit,current_coach_win_pct,14,0.35,0.55,0.66,0.65,0.75,0.78,0.9
+Competitive Fit,winning_series_count,14,0.0,2.25,6.0,5.79,8.0,11.1,12.0
+Competitive Fit,avg_head_to_head_win_pct,14,0.28,0.43,0.49,0.5,0.54,0.66,0.75
+Competitive Fit,history_score,14,0.0,28.78,32.75,42.24,64.03,76.95,94.2
+Competitive Fit,competitive_score,14,23.0,31.75,49.15,50.89,62.92,80.61,100.0
+Resource Fit,resource_score,14,35.0,35.0,35.0,39.04,35.0,53.55,65.0
+Competitive Fit,program_power_index,14,17.9,34.05,40.55,44.47,56.28,70.96,76.7
