@@ -1,0 +1,29 @@
+talent_access_rank,school_id,school,school_state,normal_residency_area,admissions_policy_type,can_accept_out_of_district_students,out_of_district_scope,can_cross_state_boundary,strict_access_players,strict_top_25,strict_top_50,strict_top_100,strict_top_300,same_state_visibility_players,regional_gravity_players,regional_top_100,regional_top_300,relocation_candidate_players,avg_talent_quality_strict,avg_talent_quality_regional,position_groups_strict,strict_volume_score,strict_elite_score,strict_quality_score,strict_position_diversity_score,talent_access_score,regional_gravity_score
+1,2016,Moeller (OH),OH,N/A (Private),Open / Out-of-District,1,Unlimited (Tuition-based),1,83,8,14,26,79,0,54,17,51,0,69.52,69.63,8,100.0,100.0,100.0,100.0,100.0,35.6
+2,2017,Mount Carmel (IL),IL,N/A (Private),Open / Out-of-District,1,Unlimited (Tuition-based),1,69,4,8,17,68,0,47,9,47,0,67.68,66.6,8,83.13253012048193,77.86259541984732,97.35327963176066,100.0,85.8,17.3
+3,2004,Canton McKinley (OH),OH,Canton City School District,Open / Out-of-District,1,Statewide (Inter-district),0,29,2,5,9,28,0,54,17,51,54,69.31,69.63,8,34.93975903614458,35.11450381679389,99.69792865362487,100.0,54.5,35.6
+4,2010,Colerain (OH),OH,Northwest Local District,Open / Out-of-District,1,Statewide (Inter-district),0,29,2,5,9,28,0,54,17,51,54,69.31,69.63,8,34.93975903614458,35.11450381679389,99.69792865362487,100.0,54.5,35.6
+5,2015,Massillon (OH),OH,Massillon City Schools,Open / Out-of-District,1,Statewide (Inter-district),0,29,2,5,9,28,0,54,17,51,54,69.31,69.63,8,34.93975903614458,35.11450381679389,99.69792865362487,100.0,54.5,35.6
+6,2024,Steubenville (OH),OH,Steubenville City Schools,Open / Out-of-District,1,Statewide (Inter-district),0,29,2,5,9,28,0,54,17,51,54,69.31,69.63,8,34.93975903614458,35.11450381679389,99.69792865362487,100.0,54.5,35.6
+7,2018,Muskegon (MI),MI,Muskegon Public Schools,Open / Out-of-District,1,County / Contiguous ISD,0,14,0,1,4,14,0,67,19,65,67,69.29,68.21,6,16.867469879518072,16.793893129770993,99.6691599539701,75.0,39.2,53.5
+8,2001,Bergen Central (NJ),NJ,Bergen County,Residency Restricted,0,,0,0,0,0,0,0,11,29,12,25,40,0.0,71.03,0,0.0,0.0,0.0,0.0,0.0,0.0
+9,2002,Bluefield (WV),WV,Mercer County,Open / Out-of-District,1,Statewide,0,0,0,0,0,0,0,92,33,86,92,0.0,70.87,0,0.0,0.0,0.0,0.0,0.0,100.0
+10,2003,Brooklyn Tech (NY),NY,New York City,Residency Restricted,0,,0,0,0,0,0,0,3,36,14,33,39,0.0,72.5,0,0.0,0.0,0.0,0.0,0.0,11.6
+11,2005,Carmel (IN),IN,Clay Township (Carmel),Residency Restricted,0,,0,0,0,0,0,0,11,70,22,68,81,0.0,69.57,0,0.0,0.0,0.0,0.0,0.0,61.7
+12,2006,Cass Tech (MI),MI,City of Detroit,Residency Restricted,0,,0,0,0,0,0,0,14,67,19,65,81,0.0,68.21,0,0.0,0.0,0.0,0.0,0.0,53.5
+13,2007,Central (PA),PA,City of Philadelphia,Residency Restricted,0,,0,0,0,0,0,0,24,59,21,57,83,0.0,71.53,0,0.0,0.0,0.0,0.0,0.0,48.4
+14,2008,Central-Pittsburgh (PA),PA,City of Pittsburgh,Residency Restricted,0,,0,0,0,0,0,0,24,59,21,57,83,0.0,71.53,0,0.0,0.0,0.0,0.0,0.0,48.4
+15,2009,City College (MD),MD,Baltimore City,Residency Restricted,0,,0,0,0,0,0,0,15,46,17,41,61,0.0,70.0,0,0.0,0.0,0.0,0.0,0.0,25.5
+16,2011,East St. Louis (IL),IL,ESL School District 189,Residency Restricted,0,,0,0,0,0,0,0,22,47,9,47,69,0.0,66.6,0,0.0,0.0,0.0,0.0,0.0,17.3
+17,2012,King (MI),MI,City of Detroit,Residency Restricted,0,,0,0,0,0,0,0,14,67,19,65,81,0.0,68.21,0,0.0,0.0,0.0,0.0,0.0,53.5
+18,2013,Lincoln-Way East (IL),IL,"Frankfort, Mokena regional",Residency Restricted,0,,0,0,0,0,0,0,22,47,9,47,69,0.0,66.6,0,0.0,0.0,0.0,0.0,0.0,17.3
+19,2014,Male (KY),KY,Jefferson County (JCPS),Residency Restricted,0,,0,0,0,0,0,0,5,95,30,91,100,0.0,68.84,0,0.0,0.0,0.0,0.0,0.0,99.8
+20,2019,Oscar Smith (VA),VA,City of Chesapeake,Residency Restricted,0,,0,0,0,0,0,0,19,45,20,44,64,0.0,75.33,0,0.0,0.0,0.0,0.0,0.0,32.8
+21,2021,PG Poly (MD),MD,Prince George's County,Residency Restricted,0,,0,0,0,0,0,0,15,46,17,41,61,0.0,70.0,0,0.0,0.0,0.0,0.0,0.0,25.5
+22,2020,Palumbo (PA),PA,City of Philadelphia,Residency Restricted,0,,0,0,0,0,0,0,24,59,21,57,83,0.0,71.53,0,0.0,0.0,0.0,0.0,0.0,48.4
+23,2022,Phoebus (VA),VA,City of Hampton,Residency Restricted,0,,0,0,0,0,0,0,19,45,20,44,64,0.0,75.33,0,0.0,0.0,0.0,0.0,0.0,32.8
+24,2023,Ramsey (NJ),NJ,Borough of Ramsey,Residency Restricted,0,,0,0,0,0,0,0,11,29,12,25,40,0.0,71.03,0,0.0,0.0,0.0,0.0,0.0,0.0
+25,2025,Stuyvesant (NY),NY,New York City,Residency Restricted,0,,0,0,0,0,0,0,3,36,14,33,39,0.0,72.5,0,0.0,0.0,0.0,0.0,0.0,11.6
+26,2026,University (NJ),NJ,City of Newark,Residency Restricted,0,,0,0,0,0,0,0,11,29,12,25,40,0.0,71.03,0,0.0,0.0,0.0,0.0,0.0,0.0
+27,2027,Washington Latin (DC),DC,"Washington, D.C.",Residency Restricted,0,,0,0,0,0,0,0,2,34,13,32,36,0.0,71.76,0,0.0,0.0,0.0,0.0,0.0,8.6
+28,2028,Wilmington Tech (DE),DE,New Castle County,Residency Restricted,0,,0,0,0,0,0,0,1,50,21,47,51,0.0,73.8,0,0.0,0.0,0.0,0.0,0.0,38.1
